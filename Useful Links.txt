@@ -1,0 +1,5 @@
+Bootstrap:
+https://www.w3schools.com/bootstrap/default.asp
+
+Routing:
+https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
